@@ -1,84 +1,9 @@
 body{
-  background-image: url(image/6.jpg);
+    background-color: magenta;
 }
-li{
-    display: inline-block;
-    font-size: 25px;
-    margin-left: 30px;
-    color: gray;
+.S1{
+    margin-top: 100px;
 }
-#li{
-    margin-right: 800px;
-}
-.w{
-    font-size: 40px;
-    color: rgb(235, 235, 235);
-    margin-top: 520px;
-    display: inline-block;
-    background-color: rgba(24, 24, 24, 0.664);
-    width: 596px;
-    padding: 15px;
-}
-.t{
-    font-size: 20px;
-    background-color: rgba(255, 255, 255, 0.747);
-    color: rgba(128, 128, 128, 0.699);
-    width: 400px;
-    padding: 15px;
-    display: inline-block;
-    margin-right: 1000px ;
-    margin-left: 196px;
-}
-.y{
-    font-size: 40px;
-    background-color: rgba(255, 255, 255, 0.836);
-    color: gray;
-    margin-left: -4px;
-    width: 400px;
-    display: inline-block;
-    padding: 15px;
-}
-.h{
-    font-size: 40px;
-    background-color: rgba(9, 150, 245, 0.719);
-    color: rgb(255, 255, 255);
-    width: 400px;
-    text-align: center;
-    margin-left: 629px;
-    margin-left: 626px;
-    display: inline-block ;
-    padding: 15px;
-    margin-top: 0px;
-    position: relative; 
-    bottom: 237px;
-}
-header>ul{
-    list-style: none;
-}
-header{
-    background-color: white;
-    width: 100%;
-    height: 30px;
-    border-radius: 10px;
-}
-@media(max-width: 1072px){
-    main{
-        width: 1500px;
-        background-image: url(image/1657191966_1-pibig-info-p-krasivii-mainkraft-fon-1.jpg);
-        color: rgba(172, 255, 47, 0.856);
-    }
-    .h{
-        font-size: 40px;
-        background-color: rgba(9, 245, 127, 0.884);
-        color: rgba(145, 138, 138, 0.904);
-        width: 400px;
-        text-align: center;
-        margin-left: 629px;
-        margin-left: 626px;
-        display: inline-block ;
-        padding: 15px;
-        margin-top: 0px;
-        position: relative; 
-        bottom: 237px;
-    }
+.S2{
+    margin-top: 50px;
 }
